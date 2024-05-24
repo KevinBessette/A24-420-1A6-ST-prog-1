@@ -103,3 +103,62 @@ messageSalutation = Console.ReadLine();
 salutationComplete = "Bonjour " + nom + ", " + messageSalutation;
 Console.WriteLine(salutationComplete);
 ```
+
+---
+
+# Quiz
+
+---
+
+## Question 1
+Nommez-moi une caractéristiques d'un algorithme ?
+
+---
+
+## Réponse
+- **Finitude**: Pas de boucle infini.
+- **Déterminisme**: même entrée = même sortie.
+- **Efficacité** : Quantité raisonnable de ressources.
+- **Indépendance du langage** :  Peut être programmer dans plusieurs langages.
+
+---
+
+## Question 2
+Quelle est l'utilité principale du pseudo-code ?
+- Compiler des programmes
+- Décrire un algorithme de manière formelle
+- Écrire des programmes de manière informelle
+- Analyser les performances d'un programme
+
+---
+## Réponse
+Écrire des programmes de manière informelle
+
+---
+
+## Question 3
+Quel est le langage de programmation utilisé dans ce cours ?
+- Java
+- C++
+- Python
+- C#
+
+---
+
+## Réponse
+c#
+
+---
+
+## Question 4
+Quelle caractéristique du C# parmi les suivantes est correct?
+- Syntaxe exotique
+- Typage dynamique
+- Gestion manuelle de la mémoire
+- Fortement typé
+
+---
+
+## Réponse
+Fortement typé
+
