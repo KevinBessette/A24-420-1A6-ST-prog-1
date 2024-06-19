@@ -4,14 +4,11 @@
 ## cours 1
 - Présentation
 - Plan de cours
-- Planning de la session
+- Sequence Pedagogique
 - Présentation des outils
   - VsCode + extension
     - polyglote
-  - Git
-  - Github
-- Qu'est-ce qu'un algorithme
-- Qu'est-ce que le pseudo-code
-- Qu'est-ce que le c#
+  - Git/Github/Github Desktop
+- Introduction
 
 ## cours 2

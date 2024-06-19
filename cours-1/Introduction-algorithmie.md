@@ -34,7 +34,7 @@ _J'utiliserai le pseudo-code pour vous expliquez certain concept général de pr
 
 ## Avantages du Pseudo-code
 - **Lisibilité** : Facile à lire et à comprendre, même pour les non-programmeurs.
-- **Flexibilité** : Indépendant de tout langage de programmation.
+- **Flexibilité** : Indépendant du langage de programmation.
 - **Clarté** : Aide à clarifier les étapes d'un algorithme avant de le coder.
 
 ---
@@ -125,40 +125,40 @@ Nommez-moi une caractéristiques d'un algorithme ?
 
 ## Question 2
 Quelle est l'utilité principale du pseudo-code ?
-- Compiler des programmes
-- Décrire un algorithme de manière formelle
-- Écrire des programmes de manière informelle
-- Analyser les performances d'un programme
+(A) Compiler des programmes
+(B) Décrire un algorithme de manière formelle
+(C) Écrire des programmes de manière informelle
+(D) Analyser les performances d'un programme
 
 ---
 ## Réponse
-Écrire des programmes de manière informelle
+(C) Écrire des programmes de manière informelle
 
 ---
 
 ## Question 3
-Quel est le langage de programmation utilisé dans ce cours ?
-- Java
-- C++
-- Python
-- C#
+Quel est le langage de programmation qui sera utilisé dans ce cours ?
+(A) Java
+(B) C++
+(C) Python
+(D) C#
 
 ---
 
 ## Réponse
-c#
+(D) c#
 
 ---
 
 ## Question 4
 Quelle caractéristique du C# parmi les suivantes est correct?
-- Syntaxe exotique
-- Typage dynamique
-- Gestion manuelle de la mémoire
-- Fortement typé
+(A) Syntaxe unique
+(B) Typage dynamique
+(C) Gestion manuelle de la mémoire
+(D) Fortement typé
 
 ---
 
 ## Réponse
-Fortement typé
+(D) Fortement typé
 

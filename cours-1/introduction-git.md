@@ -17,6 +17,7 @@ marp: true
 - Gestion efficace des versions
 - Collaboration facilitée entre les développeurs
 - Suivi précis des modifications et des contributeurs
+- Très utilisé sur le marché du travail.
 
 ---
 
@@ -28,7 +29,7 @@ marp: true
 ---
 
 ## Pourquoi utiliser GitHub ?
-- Centralisation du code source
+- Centralisation du code source (toujours accessbile)
 - Facilité de collaboration avec une communauté mondiale
 - Intégration avec une variété d'outils de développement
 
