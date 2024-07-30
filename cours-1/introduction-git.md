@@ -46,4 +46,4 @@ marp: true
 1. Installer Git sur votre système
 2. Créer un compte sur GitHub
 3. Installer GitHub Desktop
-4. Cloner un dépôt existant ou créer un nouveau projet
+4. Cloner un dépôt existant ou créer un nouveau dépôt

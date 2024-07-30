@@ -74,7 +74,7 @@ _C'est le langage de programmation qui sera utilisé dans ce cours_
 
 ## Caractéristiques du C#
 - **Syntaxe familière** : Sa syntaxe et ses concepts sont similaires à ceux de nombreux autres langages populaires comme Java, C++, et Python.
-- **Fortement typé** : Les types de données sont vérifiés à la compilation.
+- **Fortement typé** : Les types de données sont précis.  Par exemple,. il y a un type différent pour un chiffre et pour un nombre à virgule.
 - **Gestion automatique de la mémoire** : Utilise un ramasse-miettes pour la gestion de la mémoire.
 - **Interopérabilité** : Peut interagir avec d'autres langages via .NET.
 
