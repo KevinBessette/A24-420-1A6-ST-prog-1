@@ -21,7 +21,9 @@
 4. Initialiser un programme console en c# à l'intérieur du dossier cloné.
    1. Ouvrir le répertoire a24-prog1-helloworld.
    2. Exécuter la commande `dotnet new console`
-5. Ouvrer le répertoire avec VSCode, jeter un coup d'oeil au code source dans le fichier `Program.cs` et jouer un peu avec.
+5. Écriver votre nom dans le fichier readme.md.
+   1. Prenez l'habitude de toujours écrire le nom de l'auteur dans ce fichier.  Surtout lorsque ce sera des exercices sommatifs, cela me permet de savoir à qui je dois donner la note. :P
+6. Ouvrer le répertoire avec VSCode, jeter un coup d'oeil au code source dans le fichier `Program.cs` et jouer un peu avec.
    1. Cela devrait ressembler à ceci:
    ```
    // See https://aka.ms/new-console-template for more information
@@ -29,19 +31,19 @@
    ```
    2. Remarquer que La première ligne est précédé de deux `/`, cela signifie que la ligne est un commentaire destiner au programmeur et n'affect pas l'exécution du code.
    3. Sur la seconde ligne, la commande `Console.WriteLine("")` signifie qu'on écrire un ligne de texte dans la console.  Les mots entre guillemet sont ceux qui seront affiché.
-6. *Commit early, commit often*
-   1. Une bonne habitude à prendre est de faire des `commits` git tôt et à chaque modification clé.
+7. *Commit early, commit often*
+   1. Une bonne habitude à prendre est de faire des `commits` tôt et à chaque modification clé.
    2. Aller voir l'application Github Desktop, vous constatez que l'interface a changé. Il y a maintenant des modifications au répertoire git de signalé.
    3. Écriver un message décrivant la modification et appuyez sur `Commit to main`.
    4. Vous verrez ensuite un carré bleu vous signalé que votre dépôt local contient des changements qui n'ont pas encore été envoyé sur le dépôt distant (Github).  Appuyez sur `Push origin`.
-7. Effectuer un modification au projet.
+8. Effectuer un modification au projet.
    1. Dans VSCODE
    2. Modifier le texte pour `Hello, prog1!`
    3. Sauvegarder le fichier.  Astuce: Utiliser le raccourci: `ctrl+s`
    4. Exécuter le code avec le petit bouton `play` en haut à droite.
    5. Le message devrait s'afficher dans le terminal interne de VSCode.
-8. Pousser à nouveau vos modification sur github.
+9.  Pousser à nouveau vos modification sur github.
    1. Voir étape 6.
-9. Finalement, rafraichissez la page Web de votre répertoire sur Github.
+10. Finalement, rafraichissez la page Web de votre répertoire sur Github.
    1.  Comme vous pouvez le voir, tout votre code et tout votre historique de programmation, est maintenant sauvegardé sur Github.
-10. Bravo!
+11. Bravo!
