@@ -20,7 +20,7 @@ marp: true
 
 ## Créer un nouvel algorithme en c#
 - Lorsque nous allons écrire un algorithme en c#, cela se fera sous la forme d'un programme console.
-- La commande `dotnet new console -n ecrire-ici-le-nom-de-l-algorithme` permet d'en créer un.
+- La commande `dotnet new console` permet d'en créer un à l'emplacement où nous somme.
   - Sur windows, vous pouvez écrire la commande directement dans la barre de navigation de l'explorateur Windows.
   - Alternativement, vous pouvez écrire `cmd` pour ouvrir une console et ensuite écrire la commande dans la console.
 - Un dossier aillant le nom que vous avez choisi sera alor créé.
@@ -31,7 +31,7 @@ marp: true
 - Ouvrez ensuite ce dossier avec VSCode. Il y a plusieurs possibilités:
   - Ouvrez VSCode, puis sélectionner le menu File > Open Folder, sélectionner le dossier précédement créé.
   - Faites un click droit sur le dossier précédemment créé et choisissez: Ouvrir avec code
-  - Si vous avez déjà une console d'ouverte écrivez `code nom-de-l-algorithme` ou `code .` si vous êtes à l'intérieur du dossier.
+  - Si vous avez déjà une console d'ouverte écrivez `code .` si vous êtes à l'intérieur du dossier.
 - Lorsque le dossier est correctement ouvert, vous devriez voir, à gauche, le nom de l'algorithme comme élément racine de l'explorateur.
 
 
