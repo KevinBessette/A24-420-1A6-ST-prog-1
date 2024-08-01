@@ -17,5 +17,5 @@ La fusion des chaînes de caractère.
 3. Ouvrir le programme avec VSCode et traduiser l'algorithme en pseudo-code écrit précédement c#.
 4. Lorsque vous avez terminé et que votre algorithme fonctionne sans erreur, effectuer un second commit et pousser le tout sur Github.
 
-## Correcton
+## Correction
 - Un retour sera fait au début prochain cours.
