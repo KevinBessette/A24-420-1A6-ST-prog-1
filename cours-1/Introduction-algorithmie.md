@@ -15,6 +15,9 @@ _class: invert
 Un **algorithme** est une suite d'étapes permettant de résoudre un problème ou d'accomplir une tâche spécifique.
 - **Entrée** : Un algorithme peut avoir zéro ou plusieurs entrées, qui sont les données sur lesquelles il opère pour produire une sortie.
 - **Sortie** : Un algorithme doit produire au moins une sortie, qui est le résultat de son exécution sur les entrées fournies.
+C'est la base, de l'informatique.  Tous les logiciels, aussi complexe soit-il, sont en réalité un assemblage d'algorithme.
+L'art de la programmation c'est de découper une tâche complexe en une série d'instruction simple.
+
 ---
 
 ## Caractéristiques d'un algorithme
@@ -75,6 +78,7 @@ _C'est le langage de programmation qui sera utilisé dans ce cours_
 ## Caractéristiques du C#
 - **Syntaxe familière** : Sa syntaxe et ses concepts sont similaires à ceux de nombreux autres langages populaires comme Java, C++, et Python.
 - **Fortement typé** : Les types de données sont précis.  Par exemple,. il y a un type différent pour un chiffre et pour un nombre à virgule.
+- **Compilé**: Avant d'être exécuté, le code doit être compiler par l'ordinateur afin de le convertir en langage machine.
 - **Gestion automatique de la mémoire** : Utilise un ramasse-miettes pour la gestion de la mémoire.
 - **Interopérabilité** : Peut interagir avec d'autres langages via .NET.
 
