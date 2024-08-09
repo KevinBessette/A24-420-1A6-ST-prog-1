@@ -50,8 +50,6 @@ _class: invert
   - Importance des commentaires et de la documentation
   - Écriture de code lisible et maintenable
   - Utilisation des conventions de nommage
-- Présentation de Github classroom
-- Exercice sommatif 1
 
 ---
 
@@ -67,6 +65,25 @@ _class: invert
 - Temps pour sommatif 1
 
 
+
+# Semaine 3
+## cours 5
+Algèbre booléenne
+Condition if
+Opérateur de comparaison
+Exercice papier true/false
+Condition else/else if
+porté des variables (bloc scope)
+
+- Présentation de Github classroom
+- Exercice sommatif 1
+
+## cours 6
+boucle For
+exercice polyglotte
+boucle while
+exercice polyglotte
+défi 2
 
 --- 
 
@@ -96,22 +113,6 @@ input/output(3/3)
 Fonction (2/2)
 
 
-----------Semaine 3----------
-cours 5
-Algèbre booléenne
-Condition if
-Opérateur de comparaison
-Exercice papier true/false
-Condition else/else if
-porté des variables (bloc scope)
-exercice
---- grosse semaine, entrecouté par autre chose.
-cours 6
-boucle For
-exercice polyglotte
-boucle while
-exercice polyglotte
-défi 2
 
 ----------Semaine 4----------
 cours 7
