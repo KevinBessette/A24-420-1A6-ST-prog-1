@@ -47,6 +47,7 @@ _class: invert
 - Faites les exercices formatifs (formatif != optionnel)
 - Que vous me poser des questions lorsque vous en avez.  
   - N’hésitez pas!
+- - Prévenez-moi si je vais trop vite, ne soyez pas timide.
 - Exercices individuels == individuel, travaux en équipe == en équipe.
   - Je ne choisis pas ça au hasard!
 - De la participation!

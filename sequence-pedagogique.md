@@ -55,6 +55,7 @@ _class: invert
 
 # semaine 2
 ## cours 4
+- Quiz : 1h : 5%
 - déboguer un code
   - Trace papier
   - Console.log
@@ -62,7 +63,6 @@ _class: invert
   - Canard
 - Exercice de type: trouver l'erreur
   - Retour sur exercice
-- Temps pour sommatif 1
 
 
 
