@@ -1,0 +1,31 @@
+Créateur de phrase
+
+Entrées:
+	string phrase1
+	string phrase2
+	string phrase3
+	string phrase4
+	string separateur
+SORTIES:
+	string phraseFinale
+
+DEBUT
+	ECRIRE "Ecrire phrase 1:"
+	LIRE phrase1
+
+	ECRIRE "Ecrire phrase 2:"
+	LIRE phrase2
+
+	ECRIRE "Ecrire phrase 3:"
+	LIRE phrase3
+
+	ECRIRE "Ecrire phrase 4:"
+	LIRE phrase4
+
+	ECRIRE "Ecrire separateur:"
+	LIRE separateur
+
+	phraseFinale <- phrase1 + separateur + phrase2 + separateur + phrase3 + separateur + phrase4
+	
+	ECRIRE phraseFinale
+FIN

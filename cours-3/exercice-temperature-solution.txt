@@ -1,0 +1,25 @@
+// (0°C × 9/5) + 32 = 32°F
+// 0°C + 273.15 = 273.1°C
+
+CONSTANTES
+	RÉELLE CELSIUS_TO_KELVIN = 273.15
+	RÉELLE CELSIUS_TO_FARHENHEIT_STEP1 = 9/5
+	ENTIER CELSIUS_TO_FARHENHEIT_STEP2 = 32
+
+ENTRÉES
+	RÉELLE temperatureCelsius
+SORTIES
+	RÉELLE temperatureFarhenheit
+	RÉELLE temperatureKelvin
+
+DEBUT
+	ECRIRE "Inscrivez la température en Celsius"
+	LIRE temperatureCelsius
+
+	temperatureKelvin <- temperatureCelsius + CELSIUS_TO_KELVIN
+	temperatureFarhenheit <- temperatureCelsius * CELSIUS_TO_FARHENHEIT_STEP1 + CELSIUS_TO_FARHENHEIT_STEP2 
+	
+	ECRIRE "Température en Celsius: " + temperatureCelsius
+	ECRIRE "Température en Farhenheit" + temperatureFarhenheit 
+	ECRIRE "Température en Kelvin" + temperatureKelvin
+FIN
