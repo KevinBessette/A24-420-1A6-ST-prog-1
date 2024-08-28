@@ -15,6 +15,6 @@ Console.WriteLine("Inscrivez le nombre d'heure d'utilisation de votre ordinateur
 int nbHeure = Convert.ToInt32(Console.ReadLine());
 
 int nbWatt = nbHeure * WATTS_PAR_HEURE;
-double coutUtilisation = nbWatt * COUT_PAR_WATTS_PAR_HEURE;
+double coutUtilisation = nbWatt * COUT_PAR_WATTS;
 
 Console.Write($"Le coût d'utilisation de {nbHeure} heures d'ordinateur vous coûte {coutUtilisation}$");
