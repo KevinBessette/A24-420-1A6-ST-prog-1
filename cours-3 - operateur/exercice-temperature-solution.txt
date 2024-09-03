@@ -2,15 +2,15 @@
 // 0°C + 273.15 = 273.1°C
 
 CONSTANTES
-	RÉELLE CELSIUS_TO_KELVIN = 273.15
-	RÉELLE CELSIUS_TO_FARHENHEIT_MULTIPLE = 9.0/5 // ou 1.8
+	RÉEL CELSIUS_TO_KELVIN = 273.15
+	RÉEL CELSIUS_TO_FARHENHEIT_MULTIPLE = 9.0/5 // ou 1.8
 	ENTIER CELSIUS_TO_FARHENHEIT_ADDITION = 32
 
 ENTRÉES
-	RÉELLE temperatureCelsius
+	RÉEL temperatureCelsius
 SORTIES
-	RÉELLE temperatureFarhenheit
-	RÉELLE temperatureKelvin
+	RÉEL temperatureFarhenheit
+	RÉEL temperatureKelvin
 
 DEBUT
 	ECRIRE "Inscrivez la température en Celsius"
