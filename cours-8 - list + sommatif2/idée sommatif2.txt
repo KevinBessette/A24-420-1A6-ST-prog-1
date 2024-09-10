@@ -1,0 +1,2 @@
+Faire une playlist musical (titre de chanson et temps)
+Puis afficher la playlist et la durée total.

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "cours-4 - debug", "cours-4 - debug", "{89212CE0-3A39-406C-B9FA-774AB3597099}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "deboggeur", "cours-4 - debug\deboggeur\deboggeur.csproj", "{2520E2DD-36E0-4761-AA2D-E685EE7C72EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2520E2DD-36E0-4761-AA2D-E685EE7C72EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2520E2DD-36E0-4761-AA2D-E685EE7C72EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2520E2DD-36E0-4761-AA2D-E685EE7C72EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2520E2DD-36E0-4761-AA2D-E685EE7C72EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2520E2DD-36E0-4761-AA2D-E685EE7C72EE} = {89212CE0-3A39-406C-B9FA-774AB3597099}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {855F5679-40A1-44BC-93D9-B8224FDD0BB3}
+	EndGlobalSection
+EndGlobal
