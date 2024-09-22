@@ -1,14 +1,3 @@
-Au début du cours, vérifier qui a fini les 5 exercices sur les boucles et faire un rappel de l'importance de faire les exercices.  
-Vous n'êtes plus à la petite école, le cégep c'est de l'enseignement supérieur, vous êtes responsable de votre succès.
-Ceux qui ne les font pas, c'est eux qui vont échouer le cours.
-
-
-***Important***
-Trop difficile, rendu ici, donnée + de temps pour assimiler la matière avant d'enchainer avec les Array
-
-** code généré par l'IA pour le sommatif-1
-
-
 const int gridSize = 10;
 int x = 5, y = 5; // Position initiale du X
 bool running = true;

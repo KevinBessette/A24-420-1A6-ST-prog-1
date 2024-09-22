@@ -1,0 +1,8 @@
+Pendant les explications, après les notes de cours, prendre le temps d'expliquer la différence entre argument et paramètre.
+
+Prévenir qu'il y a une mini-test au prochain cours (1h30)
+Vous n'avez le droit à rien d'autre que votre IDE Pas Internet, pas vos anciens exercice, etc.
+Le mini-test sera un exercice de programmation à faire.  
+Vous aurez un petit programme troué avec des sections à complété.
+constante, variable, opérateur, condition, boucle, collection et fonction.
+

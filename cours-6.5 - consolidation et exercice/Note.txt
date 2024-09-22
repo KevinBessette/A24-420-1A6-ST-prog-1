@@ -1,0 +1,6 @@
+Créer des exercices de consolidations 
+I/O
+OPERATEUR
+IF
+ELSE
+DEBUG

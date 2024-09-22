@@ -1,6 +1,17 @@
 Rayane Belouane (Rate des cours, passe du temps sur son cell dans le cours, n'écoute pas la matière.  Devrait s'assoir plus proche de moi.)
 Edric Bouchard (pas concentré, n'écoute pas, ne pose pas de question, devrait s'assoir plus proche de moi.)
-Jonathan Chevalier Savary (Prend des raccourcie (s'appuie sur d'autre étudiant ou copilot ou l'Internet), ça vas lui explosé dans la face avant la 3e session)
+
 
 Nathan Fortin: Toujours sur son cell puis pose des questions.  (Web1)
 Vincent Langlais: Difficulté de concentration sur la théorie. Très dur en intro.
+
+
+----------- Exercice if/else peu ou pas fait -----------
+Anthony Lambert
+Edric Bouchard -> ça se place
+Justin Marquis-Berger
+Parkey Kengne Abdel
+Rayane Belouane -> pas à son affaire du tout
+------------------
+Note: Beaucoup de gens n'ont pas fait l'exer5.  Soyez à votre affaire.  Je sais qu'il est gros mais apprendre à se retrouver dans un mur de code c'est important.
+Attention aux standards, beaucoup d'entre vous ne reste pas les bonnes pratiques vue en classe.  L'indentation des blocs de code dans les if/else est importante.
