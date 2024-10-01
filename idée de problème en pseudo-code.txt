@@ -1,0 +1,59 @@
+Somme des éléments d'un tableau
+Écrire un algorithme qui calcule la somme des éléments d'un tableau d'entiers.
+
+Recherche d'un élément dans une liste
+Trouver si un élément donné existe dans une liste et retourner sa position.
+
+Inversement d'un tableau
+Écrire un algorithme qui inverse l'ordre des éléments dans un tableau.
+
+Nombre premier
+Déterminer si un nombre donné est premier.
+
+Tri par sélection
+Implémenter un algorithme de tri par sélection sur un tableau.
+
+Multiplication de matrices
+Multiplier deux matrices et retourner la matrice résultat.
+
+Maximum et minimum d'un tableau
+Trouver le plus grand et le plus petit élément d'un tableau en une seule passe.
+
+Fibonacci récursif
+Implémenter une fonction récursive pour calculer le n-ième terme de la suite de Fibonacci.
+
+Calcul de la factorielle
+Écrire un algorithme qui calcule la factorielle d'un nombre donné.
+
+Recherche binaire
+Implémenter la recherche binaire pour trouver un élément dans un tableau trié.
+
+Élimination des doublons
+Écrire un algorithme qui retire les doublons dans un tableau.
+
+Vérification d'un palindrome
+Déterminer si une chaîne de caractères est un palindrome.
+
+Compteur de voyelles
+Compter le nombre de voyelles dans une chaîne de caractères donnée.
+
+Somme des chiffres d'un nombre
+Calculer la somme des chiffres d'un nombre entier.
+
+Fusion de deux tableaux triés
+Fusionner deux tableaux triés en un seul tableau trié.
+
+Trouver le deuxième plus grand élément d'un tableau
+Écrire un algorithme qui trouve le deuxième plus grand élément dans un tableau.
+
+Rotation d'un tableau
+Faire une rotation à droite de k positions dans un tableau.
+
+Calcul du PGCD
+Calculer le plus grand commun diviseur (PGCD) de deux nombres.
+
+Détection de cycle dans une liste chaînée
+Écrire un algorithme pour détecter si une liste chaînée contient un cycle.
+
+Conversion décimal en binaire
+Écrire un algorithme qui convertit un nombre décimal en binaire.

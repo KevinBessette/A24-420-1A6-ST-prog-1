@@ -1,1 +1,2 @@
 Ajouter la matière de List.Contain(element);
+Sinon la liste avecDoublons, c'est vraiment trop dur  
