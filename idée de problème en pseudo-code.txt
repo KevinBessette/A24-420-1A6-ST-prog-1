@@ -57,3 +57,104 @@ Détection de cycle dans une liste chaînée
 
 Conversion décimal en binaire
 Écrire un algorithme qui convertit un nombre décimal en binaire.
+
+Additionner deux nombres
+Soustraire deux nombres
+Multiplier deux nombres
+Diviser deux nombres
+Calculer la moyenne de deux nombres
+Calculer le carré d'un nombre
+Vérifier si un nombre est pair ou impair
+Calculer la somme des éléments d'un tableau
+Trouver le plus grand élément d'un tableau
+Trouver le plus petit élément d'un tableau
+Calculer la factorielle d'un nombre
+Calculer le PGCD de deux nombres
+Calculer le PPCM de deux nombres
+Inverser les éléments d'un tableau
+Compter le nombre de voyelles dans une chaîne de caractères
+Vérifier si un nombre est premier
+Générer une suite de Fibonacci
+Vérifier si une chaîne de caractères est un palindrome
+Convertir des degrés Celsius en Fahrenheit
+Convertir des degrés Fahrenheit en Celsius
+Trouver l'index d'un élément dans un tableau
+Calculer la puissance d'un nombre (exponentiation)
+Vérifier si un nombre est divisible par un autre
+Trier un tableau en ordre croissant
+Trier un tableau en ordre décroissant
+Calculer l'aire d'un cercle
+Calculer le périmètre d'un cercle
+Calculer l'aire d'un rectangle
+Calculer le périmètre d'un rectangle
+Calculer l'aire d'un triangle
+Calculer le périmètre d'un triangle
+Vérifier si un triangle est équilatéral, isocèle ou scalène
+Calculer la somme des chiffres d'un nombre
+Calculer la longueur d'une chaîne de caractères
+Remplacer toutes les voyelles dans une chaîne de caractères par un autre caractère
+Compter le nombre d'occurrences d'un caractère donné dans une chaîne de caractères
+Fusionner deux tableaux
+Calculer la somme des nombres impairs dans un tableau
+Calculer la somme des nombres pairs dans un tableau
+Calculer le produit des éléments d'un tableau
+Calculer la moyenne des éléments d'un tableau
+Vérifier si deux tableaux sont égaux
+Vérifier si un tableau est trié
+Générer un nombre aléatoire
+Calculer le reste d'une division
+Calculer la racine carrée d'un nombre
+Compter le nombre d'espaces dans une chaîne de caractères
+Calculer la distance entre deux points dans un plan cartésien
+Afficher les nombres de 1 à 100
+Afficher les multiples de 3 entre 1 et 100
+Afficher les nombres premiers entre 1 et 100
+Afficher tous les diviseurs d'un nombre
+Calculer la somme des nombres d'une plage donnée
+Calculer le produit des nombres d'une plage donnée
+Trouver le second plus grand élément dans un tableau
+Afficher une table de multiplication
+Vérifier si un nombre est parfait
+Vérifier si un nombre est une puissance de deux
+Compter le nombre de mots dans une phrase
+Convertir une chaîne de caractères en majuscules
+Convertir une chaîne de caractères en minuscules
+Calculer la différence entre deux dates
+Ajouter deux matrices
+Soustraire deux matrices
+Multiplier deux matrices
+Transposer une matrice
+Calculer le déterminant d'une matrice
+Calculer la moyenne des éléments d'une matrice
+Générer une matrice identité
+Compter le nombre d'éléments positifs dans un tableau
+Compter le nombre d'éléments négatifs dans un tableau
+Vérifier si un élément existe dans un tableau
+Trouver le plus grand nombre commun à deux tableaux
+Convertir un nombre en binaire
+Convertir un nombre binaire en décimal
+Convertir un nombre en hexadécimal
+Convertir un nombre hexadécimal en décimal
+Calculer le logarithme d'un nombre
+Calculer le sinus d'un angle (en degrés)
+Calculer le cosinus d'un angle (en degrés)
+Calculer la tangente d'un angle (en degrés)
+Vérifier si une chaîne de caractères ne contient que des chiffres
+Calculer la somme des diagonales principales d'une matrice carrée
+Supprimer les doublons d'un tableau
+Calculer la somme des nombres carrés dans un tableau
+Calculer le nombre de facteurs d'un nombre
+Trouver l'élément le plus fréquent dans un tableau
+Trouver l'élément le moins fréquent dans un tableau
+Diviser un tableau en sous-tableaux de taille fixe
+Inverser les mots d'une phrase
+Remplacer un mot dans une phrase par un autre mot
+Vérifier si une phrase contient un mot donné
+Trouver la position du premier espace dans une chaîne de caractères
+Calculer l'aire d'un trapèze
+Afficher un triangle de Pascal
+Échanger deux éléments dans un tableau
+Générer un tableau d'entiers aléatoires
+Fusionner deux chaînes de caractères
+Trouver le plus grand commun diviseur d'un tableau de nombres
+Créer une suite géométrique à partir d'un nombre initial et d'une raison
