@@ -1,0 +1,5 @@
+Faire d'autre execice pour le cours 6 sur les boucles qui n'inclus pas de plan cartésiens.  Cela a mélanger beaucoup d'étudiants qui se sont mis à faire des boucles à 2 dimensions partout.
+Ajouter plutôt des exercices avec des consoles.ReadLine dans un for et dans un while.
+Déplacé le plan cartésien plus tard pour avec les boucles imbriqué (~cours 17).
+
+Voir la classe Math plus tôt dans la session.

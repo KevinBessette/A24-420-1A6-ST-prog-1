@@ -1,0 +1,4 @@
+Fonction qui affiche un menu avec le foreach. puis des sous-menus en réutilisant la même fonction.
+Wrapper le tout dans un do-while
+
+Ajouter des éléments random là-dedans pour réutiliser le random et préparer au TP1.

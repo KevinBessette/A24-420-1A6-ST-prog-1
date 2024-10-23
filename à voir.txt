@@ -1,0 +1,100 @@
+1. Variables et Types de données
+
+    Variables : Comprendre comment déclarer et utiliser des variables.
+    Types de base : int, double, float, char, bool, etc.
+    Types avancés : string, decimal, DateTime, TimeSpan.
+    Constantes : Utiliser des valeurs constantes avec const.
+
+2. Opérateurs
+
+    Opérateurs arithmétiques : +, -, *, /, %.
+    Opérateurs de comparaison : ==, !=, <, >, <=, >=.
+    Opérateurs logiques : &&, ||, !.
+    Opérateurs d'affectation : =, +=, -=, *=, /=.
+    Opérateurs ternaires : condition ? valeur1 : valeur2.
+
+3. Structures de contrôle
+
+    Conditions : if, else if, else.
+    Switch : Instructions conditionnelles multiples.
+    Boucles : for, while, do-while, foreach.
+    Break et continue : Gestion des boucles.
+
+4. Tableaux (Arrays)
+
+    Déclaration et initialisation : int[] array = new int[5];
+    Accès et modification des éléments : array[0] = 10;
+    Boucler sur les tableaux : Utiliser for ou foreach.
+
+5. Listes (List<T>)
+
+    Listes génériques : List<int> liste = new List<int>();
+    Ajout, suppression, accès aux éléments : Add, Remove, Count.
+    Utilisation des méthodes comme Sort(), Contains(), IndexOf().
+
+6. Chaînes de caractères (String)
+
+    Concaténation et interpolation : string.Concat(), $"Texte {variable}".
+    Méthodes de transformation : ToUpper(), ToLower(), Trim(), Substring().
+    Recherches dans les chaînes : IndexOf(), Contains(), StartsWith(), EndsWith().
+    Manipulation avec Split() et Join().
+
+7. Conversions de types
+
+    Casting : Conversion explicite ou implicite de types.
+    Méthode Convert : Convert.ToInt32(), Convert.ToDouble(), etc.
+    Méthode Parse et TryParse : Conversion des chaînes vers des types numériques, dates, etc.
+
+8. Gestion des erreurs (Exceptions)
+
+    Bloc try-catch-finally : Gestion des exceptions.
+    Types d'exceptions communes : ArgumentNullException, FormatException, DivideByZeroException.
+    Lever des exceptions avec throw.
+
+9. Méthodes
+
+    Déclaration et appel : Méthodes avec ou sans retour de valeur.
+    Passage de paramètres : Paramètres par valeur ou par référence (ref, out).
+    Méthodes surchargées : Plusieurs méthodes avec le même nom mais des signatures différentes.
+    Valeurs par défaut des paramètres.
+
+10. Fonctions mathématiques (Math)
+
+    Utiliser la classe Math pour des opérations mathématiques complexes :
+        Mathématiques de base : Math.Abs(), Math.Sqrt(), Math.Pow().
+        Arrondi : Math.Floor(), Math.Ceiling(), Math.Round().
+        Trigonométrie : Math.Sin(), Math.Cos(), Math.Tan().
+        Constantes : Math.PI.
+
+11. Travail avec des fichiers (File)
+
+    Lire et écrire dans des fichiers : File.ReadAllText(), File.WriteAllText(), File.AppendAllText().
+    Vérifier l'existence d'un fichier : File.Exists().
+    Gérer les erreurs liées aux fichiers : IOException.
+
+12. Dates et heures (DateTime et TimeSpan)
+
+    Obtenir la date et l'heure actuelles : DateTime.Now.
+    Effectuer des calculs sur les dates et heures : AddDays(), AddHours(), Subtract().
+    Comparer les dates : DateTime.Compare().
+    Formats de date et heure : Utilisation de ToString("format").
+
+13. Collections génériques
+
+    Listes (List<T>), Dictionnaires (Dictionary<TKey, TValue>), Queues, Stacks.
+    Ajout, suppression, tri et recherche d'éléments.
+
+14. Énumérations (Enums)
+
+    Définir des types énumérés : Permet de définir un ensemble de constantes liées entre elles.
+    Accéder aux valeurs d'une énumération : Enum.Parse(), Enum.GetName().
+
+15. Boucles avancées
+
+    Boucle foreach : Itérer sur des collections ou tableaux.
+    Utilisation de break et continue pour contrôler les boucles.
+
+16. Commentaires et documentation
+
+    Commentaires mono-ligne et multi-lignes : // et /* */.
+    Documentation XML : /// pour documenter les méthodes et classes.
