@@ -1,0 +1,1 @@
+Retour sur le refactor du sommatif-2 et expliquer l'ajout d'une classe utilitaire. Des méthodes utile qu'on pourrait vouloir réutiliser un peu partout dans le code et même dans plusieurs projets.  Ces fonctions pourrait être copier d'un projet à l'autre sans problème.

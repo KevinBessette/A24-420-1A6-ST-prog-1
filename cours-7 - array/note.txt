@@ -1,3 +1,12 @@
 Ajout de 2 exercices de bases important.
 Faire la somme des valeurs d'un array de Int
 Trouver la plus haute et la plus base valeur d'un array de Int
+Ne pas faire de array imbriqué (plan cartésien) tout de suite, gardez ça pour le sommatif 3 ou le TP
+Ajouter dans les notes de cours comment initialisé un array avec un taille précise.
+
+
+Faire des exercices qui inclus ces cas-là.
+
+Ex. int[] arr = new int[4];
+Ex. int[] arr = new int[maVariable];
+Ex. int[] arr = new int[autreArr.length];

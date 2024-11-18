@@ -1,0 +1,14 @@
+C:\Users\mbouthillier\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\13_A24\420-1A6-ST - Programmation 1\ESC\DemoPartieAESC\DemoPartieAESC\bin\Debug\net8.0\DemoPartieAESC.exe
+C:\Users\mbouthillier\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\13_A24\420-1A6-ST - Programmation 1\ESC\DemoPartieAESC\DemoPartieAESC\bin\Debug\net8.0\DemoPartieAESC.deps.json
+C:\Users\mbouthillier\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\13_A24\420-1A6-ST - Programmation 1\ESC\DemoPartieAESC\DemoPartieAESC\bin\Debug\net8.0\DemoPartieAESC.runtimeconfig.json
+C:\Users\mbouthillier\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\13_A24\420-1A6-ST - Programmation 1\ESC\DemoPartieAESC\DemoPartieAESC\bin\Debug\net8.0\DemoPartieAESC.dll
+C:\Users\mbouthillier\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\13_A24\420-1A6-ST - Programmation 1\ESC\DemoPartieAESC\DemoPartieAESC\bin\Debug\net8.0\DemoPartieAESC.pdb
+C:\Users\mbouthillier\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\13_A24\420-1A6-ST - Programmation 1\ESC\DemoPartieAESC\DemoPartieAESC\obj\Debug\net8.0\DemoPartieAESC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbouthillier\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\13_A24\420-1A6-ST - Programmation 1\ESC\DemoPartieAESC\DemoPartieAESC\obj\Debug\net8.0\DemoPartieAESC.AssemblyInfoInputs.cache
+C:\Users\mbouthillier\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\13_A24\420-1A6-ST - Programmation 1\ESC\DemoPartieAESC\DemoPartieAESC\obj\Debug\net8.0\DemoPartieAESC.AssemblyInfo.cs
+C:\Users\mbouthillier\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\13_A24\420-1A6-ST - Programmation 1\ESC\DemoPartieAESC\DemoPartieAESC\obj\Debug\net8.0\DemoPartieAESC.csproj.CoreCompileInputs.cache
+C:\Users\mbouthillier\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\13_A24\420-1A6-ST - Programmation 1\ESC\DemoPartieAESC\DemoPartieAESC\obj\Debug\net8.0\DemoPartieAESC.dll
+C:\Users\mbouthillier\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\13_A24\420-1A6-ST - Programmation 1\ESC\DemoPartieAESC\DemoPartieAESC\obj\Debug\net8.0\refint\DemoPartieAESC.dll
+C:\Users\mbouthillier\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\13_A24\420-1A6-ST - Programmation 1\ESC\DemoPartieAESC\DemoPartieAESC\obj\Debug\net8.0\DemoPartieAESC.pdb
+C:\Users\mbouthillier\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\13_A24\420-1A6-ST - Programmation 1\ESC\DemoPartieAESC\DemoPartieAESC\obj\Debug\net8.0\DemoPartieAESC.genruntimeconfig.cache
+C:\Users\mbouthillier\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\13_A24\420-1A6-ST - Programmation 1\ESC\DemoPartieAESC\DemoPartieAESC\obj\Debug\net8.0\ref\DemoPartieAESC.dll

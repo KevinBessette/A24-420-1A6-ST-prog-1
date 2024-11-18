@@ -1,0 +1,3 @@
+Réécrire plus précisément l'énoncé de l'exercice Do-while.  Ce n'Est pas clair que la valeur random et la valeur en or sont deux variables différentes.
+
+Corriger l'énoncé de l'exercice 3 pour ne pas avoir de 2e paramètre nombre de carte à tirer et utiliserun foreach à la place.

@@ -1,0 +1,5 @@
+AJouter maintenant dans mes notes de cours sur les array comment créer un array d'une taille prédéfini.
+
+Ex. int[] arr = new int[4];
+Ex. int[] arr = new int[maVariable];
+Ex. int[] arr = new int[autreArr.length];
