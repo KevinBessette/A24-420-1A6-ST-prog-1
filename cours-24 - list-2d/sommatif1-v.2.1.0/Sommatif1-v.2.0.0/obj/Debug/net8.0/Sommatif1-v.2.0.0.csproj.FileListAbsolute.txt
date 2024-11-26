@@ -1,0 +1,15 @@
+C:\Users\kbessette\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session 2024-2025\A24-420-1A6-ST-prog-1\cours-24 - list-2d\sommatif1-v.2.1.0\Sommatif1-v.2.0.0\obj\Debug\net8.0\Sommatif1-v.2.0.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbessette\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session 2024-2025\A24-420-1A6-ST-prog-1\cours-24 - list-2d\sommatif1-v.2.1.0\Sommatif1-v.2.0.0\obj\Debug\net8.0\Sommatif1-v.2.0.0.AssemblyInfoInputs.cache
+C:\Users\kbessette\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session 2024-2025\A24-420-1A6-ST-prog-1\cours-24 - list-2d\sommatif1-v.2.1.0\Sommatif1-v.2.0.0\obj\Debug\net8.0\Sommatif1-v.2.0.0.AssemblyInfo.cs
+C:\Users\kbessette\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session 2024-2025\A24-420-1A6-ST-prog-1\cours-24 - list-2d\sommatif1-v.2.1.0\Sommatif1-v.2.0.0\obj\Debug\net8.0\Sommatif1-v.2.0.0.csproj.CoreCompileInputs.cache
+C:\Users\kbessette\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session 2024-2025\A24-420-1A6-ST-prog-1\cours-24 - list-2d\sommatif1-v.2.1.0\Sommatif1-v.2.0.0\obj\Debug\net8.0\Sommatif1-v.2.0.0.sourcelink.json
+C:\Users\kbessette\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session 2024-2025\A24-420-1A6-ST-prog-1\cours-24 - list-2d\sommatif1-v.2.1.0\Sommatif1-v.2.0.0\bin\Debug\net8.0\Sommatif1-v.2.0.0.exe
+C:\Users\kbessette\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session 2024-2025\A24-420-1A6-ST-prog-1\cours-24 - list-2d\sommatif1-v.2.1.0\Sommatif1-v.2.0.0\bin\Debug\net8.0\Sommatif1-v.2.0.0.deps.json
+C:\Users\kbessette\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session 2024-2025\A24-420-1A6-ST-prog-1\cours-24 - list-2d\sommatif1-v.2.1.0\Sommatif1-v.2.0.0\bin\Debug\net8.0\Sommatif1-v.2.0.0.runtimeconfig.json
+C:\Users\kbessette\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session 2024-2025\A24-420-1A6-ST-prog-1\cours-24 - list-2d\sommatif1-v.2.1.0\Sommatif1-v.2.0.0\bin\Debug\net8.0\Sommatif1-v.2.0.0.dll
+C:\Users\kbessette\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session 2024-2025\A24-420-1A6-ST-prog-1\cours-24 - list-2d\sommatif1-v.2.1.0\Sommatif1-v.2.0.0\bin\Debug\net8.0\Sommatif1-v.2.0.0.pdb
+C:\Users\kbessette\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session 2024-2025\A24-420-1A6-ST-prog-1\cours-24 - list-2d\sommatif1-v.2.1.0\Sommatif1-v.2.0.0\obj\Debug\net8.0\Sommatif1-v.2.0.0.dll
+C:\Users\kbessette\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session 2024-2025\A24-420-1A6-ST-prog-1\cours-24 - list-2d\sommatif1-v.2.1.0\Sommatif1-v.2.0.0\obj\Debug\net8.0\refint\Sommatif1-v.2.0.0.dll
+C:\Users\kbessette\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session 2024-2025\A24-420-1A6-ST-prog-1\cours-24 - list-2d\sommatif1-v.2.1.0\Sommatif1-v.2.0.0\obj\Debug\net8.0\Sommatif1-v.2.0.0.pdb
+C:\Users\kbessette\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session 2024-2025\A24-420-1A6-ST-prog-1\cours-24 - list-2d\sommatif1-v.2.1.0\Sommatif1-v.2.0.0\obj\Debug\net8.0\Sommatif1-v.2.0.0.genruntimeconfig.cache
+C:\Users\kbessette\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session 2024-2025\A24-420-1A6-ST-prog-1\cours-24 - list-2d\sommatif1-v.2.1.0\Sommatif1-v.2.0.0\obj\Debug\net8.0\ref\Sommatif1-v.2.0.0.dll

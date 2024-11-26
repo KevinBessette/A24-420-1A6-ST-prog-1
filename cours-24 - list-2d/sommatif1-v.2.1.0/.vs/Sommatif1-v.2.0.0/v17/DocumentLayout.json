@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kbessette\\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\\Session 2024-2025\\A24-420-1A6-ST-prog-1\\cours-24 - list-2d\\sommatif1-v.2.1.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C62FE907-2446-483B-B874-5122719DB300}|Sommatif1-v.2.0.0\\Sommatif1-v.2.0.0.csproj|c:\\users\\kbessette\\onedrive - cegep saint-jean-sur-richelieu\\session 2024-2025\\a24-420-1a6-st-prog-1\\cours-24 - list-2d\\sommatif1-v.2.1.0\\sommatif1-v.2.0.0\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62FE907-2446-483B-B874-5122719DB300}|Sommatif1-v.2.0.0\\Sommatif1-v.2.0.0.csproj|solutionrelative:sommatif1-v.2.0.0\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62FE907-2446-483B-B874-5122719DB300}|Sommatif1-v.2.0.0\\Sommatif1-v.2.0.0.csproj|c:\\users\\kbessette\\onedrive - cegep saint-jean-sur-richelieu\\session 2024-2025\\a24-420-1a6-st-prog-1\\cours-24 - list-2d\\sommatif1-v.2.1.0\\sommatif1-v.2.0.0\\consoleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62FE907-2446-483B-B874-5122719DB300}|Sommatif1-v.2.0.0\\Sommatif1-v.2.0.0.csproj|solutionrelative:sommatif1-v.2.0.0\\consoleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62FE907-2446-483B-B874-5122719DB300}|Sommatif1-v.2.0.0\\Sommatif1-v.2.0.0.csproj|c:\\users\\kbessette\\onedrive - cegep saint-jean-sur-richelieu\\session 2024-2025\\a24-420-1a6-st-prog-1\\cours-24 - list-2d\\sommatif1-v.2.1.0\\sommatif1-v.2.0.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62FE907-2446-483B-B874-5122719DB300}|Sommatif1-v.2.0.0\\Sommatif1-v.2.0.0.csproj|solutionrelative:sommatif1-v.2.0.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62FE907-2446-483B-B874-5122719DB300}|Sommatif1-v.2.0.0\\Sommatif1-v.2.0.0.csproj|c:\\users\\kbessette\\onedrive - cegep saint-jean-sur-richelieu\\session 2024-2025\\a24-420-1a6-st-prog-1\\cours-24 - list-2d\\sommatif1-v.2.1.0\\sommatif1-v.2.0.0\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62FE907-2446-483B-B874-5122719DB300}|Sommatif1-v.2.0.0\\Sommatif1-v.2.0.0.csproj|solutionrelative:sommatif1-v.2.0.0\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Grid.cs",
+              "DocumentMoniker": "C:\\Users\\kbessette\\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\\Session 2024-2025\\A24-420-1A6-ST-prog-1\\cours-24 - list-2d\\sommatif1-v.2.1.0\\Sommatif1-v.2.0.0\\Grid.cs",
+              "RelativeDocumentMoniker": "Sommatif1-v.2.0.0\\Grid.cs",
+              "ToolTip": "C:\\Users\\kbessette\\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\\Session 2024-2025\\A24-420-1A6-ST-prog-1\\cours-24 - list-2d\\sommatif1-v.2.1.0\\Sommatif1-v.2.0.0\\Grid.cs",
+              "RelativeToolTip": "Sommatif1-v.2.0.0\\Grid.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:36:49.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\kbessette\\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\\Session 2024-2025\\A24-420-1A6-ST-prog-1\\cours-24 - list-2d\\sommatif1-v.2.1.0\\Sommatif1-v.2.0.0\\Controller.cs",
+              "RelativeDocumentMoniker": "Sommatif1-v.2.0.0\\Controller.cs",
+              "ToolTip": "C:\\Users\\kbessette\\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\\Session 2024-2025\\A24-420-1A6-ST-prog-1\\cours-24 - list-2d\\sommatif1-v.2.1.0\\Sommatif1-v.2.0.0\\Controller.cs",
+              "RelativeToolTip": "Sommatif1-v.2.0.0\\Controller.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:36:49.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleView.cs",
+              "DocumentMoniker": "C:\\Users\\kbessette\\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\\Session 2024-2025\\A24-420-1A6-ST-prog-1\\cours-24 - list-2d\\sommatif1-v.2.1.0\\Sommatif1-v.2.0.0\\ConsoleView.cs",
+              "RelativeDocumentMoniker": "Sommatif1-v.2.0.0\\ConsoleView.cs",
+              "ToolTip": "C:\\Users\\kbessette\\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\\Session 2024-2025\\A24-420-1A6-ST-prog-1\\cours-24 - list-2d\\sommatif1-v.2.1.0\\Sommatif1-v.2.0.0\\ConsoleView.cs",
+              "RelativeToolTip": "Sommatif1-v.2.0.0\\ConsoleView.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:36:49.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kbessette\\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\\Session 2024-2025\\A24-420-1A6-ST-prog-1\\cours-24 - list-2d\\sommatif1-v.2.1.0\\Sommatif1-v.2.0.0\\Program.cs",
+              "RelativeDocumentMoniker": "Sommatif1-v.2.0.0\\Program.cs",
+              "ToolTip": "C:\\Users\\kbessette\\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\\Session 2024-2025\\A24-420-1A6-ST-prog-1\\cours-24 - list-2d\\sommatif1-v.2.1.0\\Sommatif1-v.2.0.0\\Program.cs",
+              "RelativeToolTip": "Sommatif1-v.2.0.0\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:36:49.553Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

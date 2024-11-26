@@ -1,0 +1,4 @@
+Modifier la map du sommatif-1 pour faire une carte avec des murs le tout stocker dans un tableau 2d
+Expliquer comment utiliser ALT+NUM pour écrire des caractères ASCII.
+█ -> ALT+219
+https://theasciicode.com.ar/

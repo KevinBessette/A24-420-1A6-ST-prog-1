@@ -1,0 +1,15 @@
+c:\Users\kbessette\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session 2024-2025\A24-420-1A6-ST-prog-1\cours-23 - intro-serialisation\demo-serialisation\bin\Debug\net8.0\demo-serialisation.exe
+C:\Users\kbessette\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session 2024-2025\A24-420-1A6-ST-prog-1\cours-23 - intro-serialisation\demo-serialisation\bin\Debug\net8.0\demo-serialisation.deps.json
+C:\Users\kbessette\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session 2024-2025\A24-420-1A6-ST-prog-1\cours-23 - intro-serialisation\demo-serialisation\bin\Debug\net8.0\demo-serialisation.runtimeconfig.json
+c:\Users\kbessette\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session 2024-2025\A24-420-1A6-ST-prog-1\cours-23 - intro-serialisation\demo-serialisation\bin\Debug\net8.0\demo-serialisation.dll
+c:\Users\kbessette\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session 2024-2025\A24-420-1A6-ST-prog-1\cours-23 - intro-serialisation\demo-serialisation\bin\Debug\net8.0\demo-serialisation.pdb
+c:\Users\kbessette\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session 2024-2025\A24-420-1A6-ST-prog-1\cours-23 - intro-serialisation\demo-serialisation\obj\Debug\net8.0\demo-serialisation.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kbessette\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session 2024-2025\A24-420-1A6-ST-prog-1\cours-23 - intro-serialisation\demo-serialisation\obj\Debug\net8.0\demo-serialisation.AssemblyInfoInputs.cache
+c:\Users\kbessette\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session 2024-2025\A24-420-1A6-ST-prog-1\cours-23 - intro-serialisation\demo-serialisation\obj\Debug\net8.0\demo-serialisation.AssemblyInfo.cs
+c:\Users\kbessette\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session 2024-2025\A24-420-1A6-ST-prog-1\cours-23 - intro-serialisation\demo-serialisation\obj\Debug\net8.0\demo-serialisation.csproj.CoreCompileInputs.cache
+c:\Users\kbessette\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session 2024-2025\A24-420-1A6-ST-prog-1\cours-23 - intro-serialisation\demo-serialisation\obj\Debug\net8.0\demo-serialisation.sourcelink.json
+c:\Users\kbessette\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session 2024-2025\A24-420-1A6-ST-prog-1\cours-23 - intro-serialisation\demo-serialisation\obj\Debug\net8.0\demo-serialisation.dll
+c:\Users\kbessette\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session 2024-2025\A24-420-1A6-ST-prog-1\cours-23 - intro-serialisation\demo-serialisation\obj\Debug\net8.0\refint\demo-serialisation.dll
+c:\Users\kbessette\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session 2024-2025\A24-420-1A6-ST-prog-1\cours-23 - intro-serialisation\demo-serialisation\obj\Debug\net8.0\demo-serialisation.pdb
+C:\Users\kbessette\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session 2024-2025\A24-420-1A6-ST-prog-1\cours-23 - intro-serialisation\demo-serialisation\obj\Debug\net8.0\demo-serialisation.genruntimeconfig.cache
+C:\Users\kbessette\OneDrive - CEGEP SAINT-JEAN-SUR-RICHELIEU\Session 2024-2025\A24-420-1A6-ST-prog-1\cours-23 - intro-serialisation\demo-serialisation\obj\Debug\net8.0\ref\demo-serialisation.dll
